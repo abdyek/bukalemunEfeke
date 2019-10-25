@@ -54,5 +54,5 @@ function efeke() {
 
 setInterval(function(){
     efeke()
-}, 500)
+}, 100)
 
